@@ -11,6 +11,3 @@ Temperature Sensor
 |ON|OFF|
 |:--:|:--:|
 |![ON](https://github.com/Chinnam-Narendra-Prasad/embbeded_project/blob/main/simulation/temp%20ON.png)|![OFF](https://github.com/Chinnam-Narendra-Prasad/embbeded_project/blob/main/simulation/temp%20OFF.png)|
-
-|Cppcheck|Compile-Linux|Codacy Badge|
-|:--:|:--:|:--:|
