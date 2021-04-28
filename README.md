@@ -10,7 +10,7 @@ If a person is sitting on the seat and has turned on the heater, then an led sho
 Temperature Sensor
 |ON|OFF|
 |:--:|:--:|
-|![ON](https://github.com/Chinnam-Narendra-Prasad/embbeded_project/blob/main/simulation/temp%20ON.png)|![OFF](https://github.com/Chinnam-Narendra-Prasad/embbeded_project/blob/main/simulation/temp%20OFF.png)|
+|![ON](https://github.com/Prasadpokanati/Embedded-project/blob/main/simulation/temp%20ON.png)|![OFF](https://github.com/Chinnam-Narendra-Prasad/embbeded_project/blob/main/simulation/temp%20OFF.png)|
 
 [![Cppcheck-actions](https://github.com/Prasadpokanati/Embedded-project/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Prasadpokanati/Embedded-project/actions/workflows/cppcheck.yml)
 [![Compile-Linux](https://github.com/Prasadpokanati/Embedded-project/actions/workflows/Compile.yml/badge.svg)](https://github.com/Prasadpokanati/Embedded-project/actions/workflows/Compile.yml)
