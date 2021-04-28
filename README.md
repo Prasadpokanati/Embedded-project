@@ -4,7 +4,7 @@ If a person is sitting on the seat and has turned on the heater, then an led sho
 
 |ON|OFF|
 |:--:|:--:|
-|![ON](https://github.com/Chinnam-Narendra-Prasad/embbeded_project/blob/main/simulation/Seat%20Sensor%20On%20%26%20Heater%20Sensor%20On.png)|![OFF](https://github.com/Chinnam-Narendra-Prasad/embbeded_project/blob/main/simulation/Seat%20Sensor%20Off%20%20%26%20heater%20Sensor%20off.png)|
+|![ON](https://github.com/Prasadpokanati/Embedded-project/blob/main/simulation/Seat%20Sensor%20On%20%26%20Heater%20Sensor%20On.png)|![OFF]()|
 
 # Activity2
 Temperature Sensor
