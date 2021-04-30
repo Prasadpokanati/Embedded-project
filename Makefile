@@ -1,11 +1,13 @@
-PROJ_NAME = Activity_1
+PROJ_NAME = Heat_Sensor
 
 BUILD_DIR = Build
 
 # All Source code files
 SRC = main.c\
-src/activity1.c\
-src/activity2.c\
+src/usart.c\
+src/seatandheater.c\
+src/pwm.c\
+src/adc.c\
 
 
 # All header file paths
