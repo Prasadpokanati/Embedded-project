@@ -1,4 +1,13 @@
-
+/**
+ * @file project_main.c
+ * @author Prasadpokanati()
+ * @brief Project to Blink an LED
+ * @version 0.1
+ * @date 2021-04-30
+ * 
+ * @copyright Copyright (c) 2021
+ * 
+ */
 #define F_CPU 16000000UL
 #include "seatandheater.h"
 #include "adc.h"
