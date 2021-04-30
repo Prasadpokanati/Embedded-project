@@ -19,3 +19,5 @@ Temperature Sensor
 [![Cppcheck-actions](https://github.com/Prasadpokanati/Embedded-project/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Prasadpokanati/Embedded-project/actions/workflows/cppcheck.yml)
 [![Compile-Linux](https://github.com/Prasadpokanati/Embedded-project/actions/workflows/Compile.yml/badge.svg)](https://github.com/Prasadpokanati/Embedded-project/actions/workflows/Compile.yml)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/8c47e2d99683416595dfe5edd428daa4)](https://www.codacy.com/gh/Prasadpokanati/Embedded-project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Prasadpokanati/Embedded-project&amp;utm_campaign=Badge_Grade)
+
+# Requirments:
