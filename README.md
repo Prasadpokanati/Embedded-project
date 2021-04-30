@@ -21,3 +21,8 @@ Temperature Sensor
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/8c47e2d99683416595dfe5edd428daa4)](https://www.codacy.com/gh/Prasadpokanati/Embedded-project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Prasadpokanati/Embedded-project&amp;utm_campaign=Badge_Grade)
 
 # Requirments:
+1. [AVR Compiler](https://sourceforge.net/projects/winavr/) for cross compilation.
+2. [SimulIDE](https://www.simulide.com/p/downloads.html) for Simulation of Hardware circuits.
+3. [Make Installer](https://sourceforge.net/projects/gnuwin32/files/make/3.81/make-3.81.exe/download?use_mirror=excellmedia&download=) from [GNUWin32](http://gnuwin32.sourceforge.net/packages/make.htm) for automating the build without using IDE.
+4. [cppcheck](http://cppcheck.sourceforge.net/) for Static Analysis.
+
