@@ -17,7 +17,7 @@ Temperature Sensor
 |![ON](https://github.com/Prasadpokanati/Embedded-project/blob/main/simulation/OUTPUT%20ON.png)|![OFF](https://github.com/Prasadpokanati/Embedded-project/blob/main/simulation/OUTPUT%20OFF.png)|
 
 [![Cppcheck-actions](https://github.com/Prasadpokanati/Embedded-project/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Prasadpokanati/Embedded-project/actions/workflows/cppcheck.yml)
-
+[![Cppcheck-actions](https://github.com/Prasadpokanati/Embedded-project/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Prasadpokanati/Embedded-project/actions/workflows/cppcheck.yml)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/8c47e2d99683416595dfe5edd428daa4)](https://www.codacy.com/gh/Prasadpokanati/Embedded-project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Prasadpokanati/Embedded-project&amp;utm_campaign=Badge_Grade)
 
 # Requirments:
